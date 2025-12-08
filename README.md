@@ -1,22 +1,3 @@
-
-# Data-Driven EF/Temporal Discounting Profiles and Diagnosis in the Healthy Brain Network
-
-## Project question
-
-**Central question**
-
-> How do data-driven summaries of cognitive control and reward discounting relate to neurodevelopmental and anxiety diagnoses in youth?
-
-The goal is not to build a better diagnostic classifier, but to see whether a small number of EF/temporal-discounting (TD) profiles can help **organize heterogeneity and comorbidity** in these diagnoses.
-
----
-
-## Data
-
-All data come from the **Healthy Brain Network (HBN)**. Raw files are not stored in this repo; the pipeline assumes local CSVs under `data/`.
-
-Key ingredients:
-
 # Data-Driven EF/Temporal Discounting Profiles and Diagnosis in the Healthy Brain Network
 
 ## Project question
