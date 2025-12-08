@@ -87,7 +87,7 @@ The full workflow is spread across several notebooks; the main *results* are con
 
 ---
 
-## Main findings (brief)
+## Main findings
 
 - The 4-cluster KMeans solution yields **interpretable EF/TD profiles**, e.g.:
   - relatively high EF and more patient discounting,
@@ -128,7 +128,7 @@ The full workflow is spread across several notebooks; the main *results* are con
   - `standardized_residuals_from_table`: standardized residuals from χ² expected vs observed counts.  
   - `fdr_bh`: Benjamini–Hochberg FDR correction on a vector of p-values.
 
-- **Supporting notebooks (not graded but referenced)**  
+- **Supporting notebooks**  
   - `01_...` / `05_...`: data fetching, cleaning, and EF/TD feature construction.  
   - `03_clustering_method_selection.ipynb`: internal clustering method comparison.  
   - `04_KMeans.ipynb`: final KMeans fit and export of cluster assignments.
